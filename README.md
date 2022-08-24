@@ -22,4 +22,4 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex004.py)<br>
 
 5. Crie um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.<br>
- [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex004.py)<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex005.py)<br>
