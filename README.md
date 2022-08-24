@@ -50,4 +50,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 14. Escreva um programa que converta uma temperatura digitada em °C e converta para °F.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex014.py)<br>
- 
+
+15. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado.Calcule o preço, sabendo que o carro custa R$60 por dia e R$15 por Km rodado.<br>
+[Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex015.py)<br>
