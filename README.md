@@ -11,4 +11,4 @@ Lista de exercícios Python para prática
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex001.py)<br>
 
 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.<br>
- [Solução]
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex002.py)<br>
