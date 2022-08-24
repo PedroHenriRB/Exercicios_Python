@@ -47,3 +47,5 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex013.py)<br>
+
+14. Escreva um programa que converta uma temperatura digitada em 
