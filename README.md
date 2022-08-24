@@ -7,6 +7,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 ### Índice
 - [Básico](#básico)
+- [Estrutura_Sequencial]
 
 ## Básico
 1. Crie um programa que escreva "Olá, Mundo!" na tela.<br>
