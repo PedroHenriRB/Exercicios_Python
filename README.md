@@ -30,5 +30,5 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex007.py)<br>
 
-8. Escreva um programa que leia um valor em metros e exiba convertido em centímetros e milímetros.
- [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex008.py)
+8. Escreva um programa que leia um valor em metros e exiba convertido em centímetros e milímetros.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex008.py)<br>
