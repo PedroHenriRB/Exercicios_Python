@@ -44,3 +44,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex012.py)<br>
+
+13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex013.py)<br>
