@@ -1,4 +1,4 @@
-# Exercícios_Python
+# Exercícios Python
 Lista de exercícios Python para prática
 
 ## Lista de exercícios para prática
@@ -19,4 +19,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex003.py)<br>
 
 4. Crie um programa que leia algo e mostre na tela o seu tipo primitivo e todas as informações sobre ele.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex004.py)<br>
+
+5. Crie um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex004.py)<br>
