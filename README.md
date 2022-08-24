@@ -32,3 +32,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 8. Escreva um programa que leia um valor em metros e exiba convertido em centímetros e milímetros.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex008.py)<br>
+
+9. Faça um programa que leia um número inteiro qualquer e mostre a sua tabuada.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex009.py),<br>
+
