@@ -41,4 +41,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex011.py)<br>
- 
+
+12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex012.py)<br>
