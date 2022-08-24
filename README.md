@@ -24,7 +24,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 5. Crie um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.<br>
  [Solução proposta](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex005.py)<br>
 
-6. Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+6. Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.<br>
  [Solução proposta](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex006.py)<br>
 
 7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.<br>
