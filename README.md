@@ -12,3 +12,6 @@ Lista de exercícios Python para prática
 
 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex002.py)<br>
+
+3. Crie um programa que leia dois números e mostre a soma entre eles.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex003.py)<br>
