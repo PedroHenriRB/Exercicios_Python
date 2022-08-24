@@ -25,4 +25,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex005.py)<br>
 
 6. Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada 
-  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex006.py)
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex006.py)
+
+7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex007.py)
