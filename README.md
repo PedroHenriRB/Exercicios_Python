@@ -29,3 +29,4 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.<br>
  [Solução proposta](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex007.py)<br>
+
