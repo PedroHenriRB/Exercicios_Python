@@ -2,7 +2,8 @@
 Lista de exercícios Python para prática
 
 ## Lista de exercícios para prática
-Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com)
+Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Curso de Python do [Curso em Vídeo]
+[YouTube](https://www.youtube.com/c/CursoemVídeo)   [Site](https://www.cursoemvideo.com)
 
 ### Índice
 - [Básico](#básico)
