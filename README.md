@@ -38,3 +38,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.(Considere US$1,00 = R$3,27)<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex010.py)<br>
+
+11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex011.py)<br>
+ 
