@@ -1,8 +1,5 @@
-peixe = int(input("Digite o kg: "))
-excesso = peixe - 50 
-multa = excesso * 4
+from math import trunc
 
-if peixe <= 50:
-    print("Nada a pagar")
-else:
-    print(f"Você dever pagar R${multa} de multa.")
+num = float(input("Digite um número real: "))
+
+print(f"A parte do Inteiro é {trunc(num)}")
