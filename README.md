@@ -68,3 +68,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 19. Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolido.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex019.py)<br>
+
+20. O mesmo professor do exercício anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex020.py)<br>
