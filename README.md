@@ -62,3 +62,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex017.py)<br>
+
+18. Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex018.py)<br>
