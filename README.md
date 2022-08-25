@@ -7,7 +7,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 ### Índice
 - [Básico](#básico)<br>
-   -[Módulos](#módulos)<br>
+ - [Módulos](#módulos)<br>
 
 ## Básico
 1. Crie um programa que escreva "Olá, Mundo!" na tela.<br>
