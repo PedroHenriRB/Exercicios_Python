@@ -6,8 +6,8 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 [YouTube](https://www.youtube.com/c/CursoemVídeo) Ou [Site](https://www.cursoemvideo.com)
 
 ### Índice
-- [Básico](#básico)
-   -[Módulos](#módulos)
+- [Básico](#básico)<br>
+   -[Módulos](#módulos)<br>
 
 ## Básico
 1. Crie um programa que escreva "Olá, Mundo!" na tela.<br>
