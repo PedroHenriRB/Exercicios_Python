@@ -59,3 +59,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 16. Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela sua porção Inteira.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex016.py)<br>
+
+17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex017.py)<br>
