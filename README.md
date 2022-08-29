@@ -71,3 +71,6 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 20. O mesmo professor do exercício anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex020.py)<br>
+
+21. Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.<br>
+ [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex021.py)<br>
