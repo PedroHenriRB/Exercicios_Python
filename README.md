@@ -10,12 +10,14 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
   - [Operadores_Aritméticos](#operados_aritméticos)<br>
   - [Módulos](#módulos)<br>
 
-## Básico
+# Básico
 1. Crie um programa que escreva "Olá, Mundo!" na tela.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex001.py)<br>
 
 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex002.py)<br>
+
+## Primitivos e Saídas de Dados
 
 3. Crie um programa que leia dois números e mostre a soma entre eles.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex003.py)<br>
