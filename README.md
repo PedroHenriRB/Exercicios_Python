@@ -7,7 +7,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 ### Índice
 - [Básico](#básico)<br>
-  - [Operadores_Aritméticos](#operados_aritméticos)<br>
+  - [Operadores_Aritméticos](#operados aritméticos)<br>
   - [Módulos](#módulos)<br>
 
 # Básico
