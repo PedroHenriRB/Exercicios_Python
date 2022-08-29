@@ -1,5 +1,7 @@
-from math import trunc
+import pygame
 
-num = float(input("Digite um número real: "))
-
-print(f"A porção Inteira do número {num} é: {trunc(num)}")
+pygame.init()
+pygame.mixer.music.load('D:\Downloads\Libera Me From Maromba.mp3')
+pygame.mixer.music.play()
+input()
+pygame.event.wait()
