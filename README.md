@@ -7,7 +7,7 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 ### Índice
 - [Básico](#básico)<br>
-  - [Operadores](#operados)<br>
+  - [Operadores](#operadores)<br>
   - [Módulos](#módulos)<br>
 
 # Básico
