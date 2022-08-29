@@ -7,7 +7,8 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 ### Índice
 - [Básico](#básico)<br>
-  - [Módulos](#módulos)
+  - [Operadores_Aritméticos](#operados_aritméticos)<br>
+  - [Módulos](#módulos)<br>
 
 ## Básico
 1. Crie um programa que escreva "Olá, Mundo!" na tela.<br>
@@ -21,6 +22,8 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 4. Crie um programa que leia algo e mostre na tela o seu tipo primitivo e todas as informações sobre ele.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex004.py)<br>
+
+## Operadores Aritméticos
 
 5. Crie um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex005.py)<br>
