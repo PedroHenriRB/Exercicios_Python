@@ -1,3 +1,3 @@
-cidade = str(input("Digite o nome da cidade: "))
+cidade = str(input("Em que cidade você nasceu: ")).strip().upper()
 
-print(f"A cidade começa com \"Santo\":", "Santo" in cidade.split()[0])
+print("SANTO" in cidade.split()[0])
