@@ -1,6 +1,11 @@
-num = str(input("Digite um número: "))
+num = int(input("Digite um número: "))
+u = num // 1 % 10
+d = num // 10 % 10
+c = num // 100 % 10
+m = num // 1000 % 10
 
-print("Milhar: ", num[0])
-print("Centena: ", num[1])
-print("Dezena: ", num[2])
-print("Unidade: ", num[3])
+print(f"Analizando o número {num}")
+print(f"Unidade: {u}")
+print(f"Dezena: {d}")
+print(f"Centena: {c}")
+print(f"Milhar: {m}")
