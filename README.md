@@ -91,3 +91,6 @@ Ex:<br>
 Digite um número: 1834<br>
 unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex023.py)<br>
+
+24. Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex024.py)<br>
