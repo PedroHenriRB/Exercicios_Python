@@ -86,8 +86,8 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
     -Quantas letras tem o primeiro nome.<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex021.py)<br>
 
-23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.<br>
-Ex:
+23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+Ex:<br>
 Digite um número: 1834
 unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex023.py)<br>
