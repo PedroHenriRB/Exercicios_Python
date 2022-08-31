@@ -94,3 +94,9 @@ unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
 
 24. Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex024.py)<br>
+
+25. Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex025.py)<br>
+
+26.  Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex026.py)<br>
