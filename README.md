@@ -100,3 +100,6 @@ unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
 
 26.  Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex026.py)<br>
+
+27.  Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex027.py)<br>
