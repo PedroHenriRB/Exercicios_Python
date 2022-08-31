@@ -79,3 +79,9 @@ Os exercícios foram tirados de várias fontes, muitos deles foram tirados do Cu
 
 21. Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.<br>
  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex021.py)<br>
+
+22. Crie um programa que leia o nome completo de uma pessoa e mostre:<br>
+    - O nome com todas as letras maiúsculas e minúsculas.<br>
+    - Quantas letras ao todo (sem considerar espaços).<br>
+    - Quantas letras tem o primeiro nome.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex021.py)<br>
