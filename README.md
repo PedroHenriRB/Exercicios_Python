@@ -103,3 +103,29 @@ unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
 
 27.  Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex027.py)<br>
+
+## Condições (Parte 1)
+
+28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex028.py)<br>
+
+29. Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex029.py)<br>
+
+30. Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex030.py)
+
+31. Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex031.py)<br>
+
+32. Faça um programa que leia um ano qualquer e mostre se ele é bissexto.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex032.py)<br>
+
+33. Faça um programa que leia três números e mostre qual é o maior e qual é o menor.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex033.py)<br>
+
+34. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex034.py)<br>
+
+35. Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.<br>
+  [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex035.py)<br>
