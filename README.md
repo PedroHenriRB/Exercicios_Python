@@ -152,11 +152,11 @@ unidade: 4, dezena: 3, centena: 8, milhar: 1<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex040.py)<br>
 
 41. A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
-  -Até 9 anos: MIRIM
-  -Até 14 anos: INFANTIL
-  -Até 19 anos: JÚNIOR
-  -Até 25 anos: SÊNIOR
-  -Acima de 25 anos: MASTER<br>
+    -Até 9 anos: MIRIM
+    -Até 14 anos: INFANTIL
+    -Até 19 anos: JÚNIOR
+    -Até 25 anos: SÊNIOR
+    -Acima de 25 anos: MASTER<br>
   [Solução](https://github.com/PedroHenriRB/Exercicios_Python/blob/main/basico/ex041.py)<br>
 
 42. Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
